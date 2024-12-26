@@ -1,2 +1,11 @@
 # ALL-HACKING-TOOL
 THIS TOOL USE FOR ALL HACKING TOOLS
+
+HOW TO INSATLL ???
+
+1ST --->> git clone https://github.com/CEHSHUVRO/ALL-HACKING-TOOL.git
+
+2ND --->> cd ALL-HACKING-TOOL
+
+3RD --->> bash ALL-HACKING-TOOL.sh ///// (./ALL-HACKING-TOOL.sh)
+
